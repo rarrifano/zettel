@@ -1,3 +1,3 @@
-module zettel
+module github.com/rarrifano/zettel
 
-go 1.22.9
+go 1.23.5
